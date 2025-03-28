@@ -1,5 +1,7 @@
 # Teste 4 – API + Frontend Vue.js
 
+📎 Também incluí um `.txt` com as mesmas instruções, para facilitar leitura offline ou por ferramentas que não renderizam markdown.
+
 ---
 
 ## Sobre o que é esse teste.
