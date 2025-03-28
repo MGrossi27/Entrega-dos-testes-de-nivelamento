@@ -1,0 +1,39 @@
+{
+	"info": {
+		"_postman_id": "6036057f-d4ba-47c8-9d3b-42f398de400b",
+		"name": "Teste API Operadoras",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43543499",
+		"_collection_link": "https://michaelgrossi.postman.co/workspace/4-teste-de-api~2a2fe167-7aad-4c9c-bfc2-b4f9fde34f37/collection/43543499-6036057f-d4ba-47c8-9d3b-42f398de400b?action=share&source=collection_link&creator=43543499"
+	},
+	"item": [
+		{
+			"name": "Buscar por nome/razão social",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/buscar?q=ALCANCE SAÚDE LTDA\n",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"buscar"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "ALCANCE SAÚDE LTDA\n"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
