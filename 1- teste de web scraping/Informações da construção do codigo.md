@@ -1,4 +1,6 @@
-# Teste 1 – Web Scraping
+# Teste 1 – Web Scraping 
+
+📎 Também incluí um `.txt` com as mesmas instruções, para facilitar leitura offline ou por ferramentas que não renderizam markdown.
 
 ## Sobre o que é esse teste.
 
