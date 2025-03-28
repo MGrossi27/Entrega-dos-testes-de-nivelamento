@@ -48,6 +48,8 @@ http://localhost:5000/buscar?q=amil
  **Importante:**  
 Por questões de tamanho, o arquivo `Relatorio_cadop.csv` **não está incluso no repositório**.  
 Para rodar corretamente, baixe o arquivo atualizado diretamente da ANS:
+não esqueça de rodar o npm install -g vite
+
 
 🔗 https://dadosabertos.ans.gov.br/FTP/PDA/operadoras_de_plano_de_saude_ativas/
 ---
