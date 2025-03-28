@@ -8,6 +8,7 @@
 e retorne os registros mais relevantes.
 
 ---
+''não esqueça do comando npm install vite --save-dev''
 
 ## Como funciona
 
