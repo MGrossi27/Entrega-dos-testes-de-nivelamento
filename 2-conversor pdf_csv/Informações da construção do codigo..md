@@ -1,4 +1,7 @@
 # Teste 2 - Conversão de PDF para CSV
+
+📎 Também incluí um `.txt` com as mesmas instruções, para facilitar leitura offline ou por ferramentas que não renderizam markdown.
+
 ---
 
 ## Desafio
